@@ -1,0 +1,23 @@
+{
+  "name": "hugo_static_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosleyHeather-FS/Hugo_Static_Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosleyHeather-FS/Hugo_Static_Server/issues"
+  },
+  "homepage": "https://github.com/MosleyHeather-FS/Hugo_Static_Server#readme",
+  "dependencies": {
+    "postcss-cli": "^10.0.0"
+  }
+}
